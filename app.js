@@ -8,7 +8,7 @@ function agregarAmigo(){
         alert('Por favor, inserte un nombre');
     }else{
         amigos.push(nombreamigo);
-        console.log(amigos);
+        //console.log(amigos);
         document.getElementById('amigo').value = '';
         mostrarLista();
     }
@@ -23,4 +23,10 @@ function mostrarLista(){
         li.textContent = amigos[i];
         document.getElementById('listaAmigos').appendChild(li);
     }
+}
+
+function sortearAmigo(){
+    for (let i = 0; i < amigos.length; i++){
+        
+    } 
 }
