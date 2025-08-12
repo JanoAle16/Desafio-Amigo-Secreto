@@ -26,7 +26,14 @@ function mostrarLista(){
 }
 
 function sortearAmigo(){
-    for (let i = 0; i < amigos.length; i++){
-        
-    } 
+    let resultado = document.getElementById('resultado');
+    
+    let random = Math.floor(Math.random()*amigos.length);
+    if(amigos.length === 0 ){
+        alert('Su lista esta vacia')
+    }else{
+        nombreSecreto = amigos[random]
+        resultado.innerHTML = `Su amigo secreto es: ${nombreSecreto}`;       
+    }
+    
 }
