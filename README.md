@@ -21,5 +21,5 @@
 
 
 <div align="center">
-  <img height="200" src="D:\One\Desafio-Amigo-Secreto\assets\Resultado.png"  />
+  <img height="200" src="/assets/Resultado.png"  />
 </div>
