@@ -1,6 +1,9 @@
 ## 🎁 Desafío Amigo Secreto
 
-¡JavaScript
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+###
 
 ### 📋 **Descripción**
 🎯 Este desafío consiste en una aplicación que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
