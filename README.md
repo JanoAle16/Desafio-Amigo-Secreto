@@ -19,7 +19,8 @@
 - 👀 **Visualizar la lista**: Los nombres ingresados aparecen en una lista debajo del campo de entrada.
 - 🎲 **Sorteo aleatorio**: Al hacer clic en el botón "Sortear Amigo", se selecciona aleatoriamente un nombre de la lista y se muestra en la página.
 
-
 <div align="center">
   <img height="200" src="/assets/Resultado.png"  />
 </div>
+
+### Desarrollado por Roberto Roman
